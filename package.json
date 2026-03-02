@@ -1,0 +1,21 @@
+{
+  "name": "@dan/standard-blue-custom",
+  "version": "1.0.0",
+  "description": "Custom Standard Blue theme tweak",
+  "author": "Dan",
+  "main": "dist/dist.css",
+  "scripts": {
+    "build": "sass src/main.scss dist/dist.css"
+  },
+  "sn": {
+    "name": "Standard Blue Custom",
+    "identifier": "com.dan.standard-blue-custom",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "main": "dist/dist.css",
+    "showInGallery": false
+  },
+  "devDependencies": {
+    "sass": "^1.0.0"
+  }
+}

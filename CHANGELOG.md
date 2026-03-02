@@ -1,0 +1,34 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [1.1.6](https://github.com/standardnotes/plugins/compare/@standardnotes/standard-blue@1.1.5...@standardnotes/standard-blue@1.1.6) (2026-02-06)
+
+**Note:** Version bump only for package @standardnotes/standard-blue
+
+## [1.1.5](https://github.com/standardnotes/plugins/compare/@standardnotes/standard-blue@1.1.4...@standardnotes/standard-blue@1.1.5) (2026-01-16)
+
+**Note:** Version bump only for package @standardnotes/standard-blue
+
+## [1.1.4](https://github.com/standardnotes/plugins/compare/@standardnotes/standard-blue@1.1.3...@standardnotes/standard-blue@1.1.4) (2026-01-16)
+
+**Note:** Version bump only for package @standardnotes/standard-blue
+
+## [1.1.3](https://github.com/standardnotes/plugins/compare/@standardnotes/standard-blue@1.1.2...@standardnotes/standard-blue@1.1.3) (2026-01-16)
+
+**Note:** Version bump only for package @standardnotes/standard-blue
+
+## [1.1.2](https://github.com/standardnotes/plugins/compare/@standardnotes/standard-blue@1.1.1...@standardnotes/standard-blue@1.1.2) (2026-01-13)
+
+**Note:** Version bump only for package @standardnotes/standard-blue
+
+## [1.1.1](https://github.com/standardnotes/plugins/compare/@standardnotes/standard-blue@1.1.0...@standardnotes/standard-blue@1.1.1) (2025-06-24)
+
+**Note:** Version bump only for package @standardnotes/standard-blue
+
+# 1.1.0 (2024-02-22)
+
+### Features
+
+* add Standard Blue theme ([#25](https://github.com/standardnotes/plugins/issues/25)) ([7d32dfc](https://github.com/standardnotes/plugins/commit/7d32dfc7b55077236b2f040e0ba8075f7dd61408))
