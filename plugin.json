@@ -1,0 +1,14 @@
+---
+metatype: json
+---
+
+{
+  "identifier": "com.dan.standard-blue-custom",
+  "name": "Standard Blue with paragraph line breaks",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0.0",
+  "description": "A light blue theme for Standard Notes. ... except I added spacing between the paragraphs",
+  "url": "https://cdn.jsdelivr.net/gh/danme-l/sn-blue-theme@master/dist/dist.css",
+  "download_url": "https://github.com/danme-l/sn-blue-theme/archive/refs/heads/master.zip",
+}
